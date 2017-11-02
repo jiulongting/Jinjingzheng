@@ -2,6 +2,7 @@ import org.sikuli.script.FindFailed;
 import org.sikuli.script.ImagePath;
 import org.sikuli.script.Match;
 import org.sikuli.script.Screen;
+import javax.sound.sampled.*;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
